@@ -1,4 +1,4 @@
-# SmitTest
+# DemoTask
 
 ## Proovitöö on järgmine:
 
